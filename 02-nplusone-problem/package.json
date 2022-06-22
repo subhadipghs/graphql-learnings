@@ -1,0 +1,17 @@
+{
+  "name": "02-nplusone-problem",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.8.2",
+    "graphql": "^16.5.0"
+  }
+}
